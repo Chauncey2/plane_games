@@ -4,7 +4,7 @@ import sys
 
 WINDOW_WIDTH = 512
 
-WINDOW_HEIGHT = 768
+WINDOW_HEIGHT = 750
 
 
 class GameWindow(object):
